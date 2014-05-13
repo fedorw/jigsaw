@@ -17,21 +17,21 @@ In this ascii representation, the shapes in
 parentheses () are the shapes that are cut out
 instead of sticking out.
 
-   v      v      v      o  
-(<)  o (>)  < (o)  o (o)  > 
-  (^)    (+)    (+)    (^)
+	   v      v      v      o  
+	(<)  o (>)  < (o)  o (o)  > 
+	  (^)    (+)    (+)    (^)
 
-   ^      ^      +      +  
-(>)  < (o)  > (+)  o (>)  < 
-  (o)    (v)    (o)    (v)  
+	   ^      ^      +      +  
+	(>)  < (o)  > (+)  o (>)  < 
+	  (o)    (v)    (o)    (v)  
 
-   ^      +      v      + 
-(>)  + (<)  o (o)  < (>)  o 
-  (o)    (o)    (+)    (^) 
+	   ^      +      v      + 
+	(>)  + (<)  o (o)  < (>)  o 
+	  (o)    (o)    (+)    (^) 
 
-   v      o      o      o  
-(+)  o (o)  o (o)  o (o)  > 
-  (v)    (^)    (^)    (+)  
+	   v      o      o      o  
+	(+)  o (o)  o (o)  o (o)  > 
+	  (v)    (^)    (^)    (+)  
 
 
 The program just solves the puzzle by brute forcing 
